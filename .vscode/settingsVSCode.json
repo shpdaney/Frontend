@@ -1,0 +1,23 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.editor.closeEmptyGroups": false,
+  "workbench.colorTheme": "Sublime Text 4 Theme",
+
+  "explorer.compactFolders": false,
+  "explorer.confirmDragAndDrop": false,
+
+  "editor.insertSpaces": false,
+  "editor.hover.enabled": false,
+  "editor.wordSeparators": "`~!@#$%^&*()-_=+[{]}\\|;:'\",.<>/?",
+
+  "liveServer.settings.donotShowInfoMsg": true,
+  "ecsstractor_port.brackets_newline_after": false,
+  "terminal.integrated.cursorStyle": "line",
+  "explorer.confirmDelete": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "window.zoomLevel": -1,
+  "editor.unicodeHighlight.allowedLocales": {
+      "ru": true
+  },
+  "editor.guides.bracketPairs": "active"
+}
